@@ -17,5 +17,9 @@
     "dependencies": {
         "bootstrap-icons": "^1.10.2",
         "paginate": "^0.1.1"
+    },
+    "frameworks": {
+        "laravel": "v9.42.2",
+        "bootstrap": "v5.2.1"
     }
 }
